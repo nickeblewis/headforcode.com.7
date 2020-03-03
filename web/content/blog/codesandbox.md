@@ -27,7 +27,7 @@ Sample file that illustrates how code looks in a block
 
 ```js:title=gridsome.config.js
 module.exports = {
-  siteName: 'Nick Lewis',
+  siteName: 'HeadForCode',
   siteDescription: 'Web development',
   siteUrl: 'https://nicklewis.net',
   templates: {

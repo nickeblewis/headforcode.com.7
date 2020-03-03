@@ -20,7 +20,7 @@ const postcssPlugins = [
 const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = {
-  siteName: 'Nick Lewis',
+  siteName: 'HeadForCode',
   siteDescription: 'I am a freelance tech writer, web developer and photographer, teaching the world about the wealth of possibility',
   siteUrl: 'https://nicklewis.net',
   templates: {
